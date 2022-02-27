@@ -19,7 +19,7 @@ Class abstrak biasanya digunakan sebagai class induk dari class-class yang lain.
 # Cara Membuat Abstrak Class di Java
 Cara membuat class abstrak adalah dengan memberikan kata kunci abstract kepada class dan method yang ingin dijadikan abstrak.
 
-![Contoh Penggunaan Class Abstrak](https://github.com/muchanto1993/Database-Indonesia/blob/main/img/List%20Provinsi.png)
+![Contoh Penggunaan Class Abstrak](https://github.com/muchanto1993/ContohAbstrak/blob/main/img/abstract.png)
 
 # Apa Bedanya Class Abstrak dengan Interface?
 Class abstrak dan interface sama-sama digunakan untuk membuat abstraksi.
